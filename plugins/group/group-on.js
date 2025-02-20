@@ -1,7 +1,7 @@
 exports.default = {
    names: ['Group Menu'],
-   tags: ['groupon', 'buka'],
-   command: ['groupon', 'buka'],
+   tags: ['groupon', 'buka','gc open'],
+   command: ['groupon', 'buka','gc open'],
    start: async (m, {
       conn
    }) => {
